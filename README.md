@@ -1,2 +1,2 @@
 # Speed_car_
-code
+Its a RC car condrolled by Transmitter and Receiver.
